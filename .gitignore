@@ -12,3 +12,6 @@ vendor/*
 composer.lock
 bin/dbunit
 bin/phpunit
+.buildpath
+.project
+.settings/*
